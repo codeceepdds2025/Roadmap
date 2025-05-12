@@ -1,6 +1,4 @@
-# 🎓 Tudo que é Preciso para Desenvolver um Software Profissional
-
-Você é um arquiteto de software educacional e precisa gerar um sistema completo que envolva **todas as áreas essenciais da Ciência da Computação**.
+# 🎓 Tudo que é Preciso de forma superficial para Desenvolver um Software Profissional
 
 Este documento descreve **o que é necessário saber e aplicar** para desenvolver um software profissional **do início ao fim**.
 
