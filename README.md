@@ -187,18 +187,6 @@ Este documento descreve **o que é necessário saber e aplicar** para desenvolve
 - Trabalhar em equipe com empatia e responsabilidade
 - Participar de decisões técnicas e de produto
 
----
-
-## 🛠️ Finalidade do Prompt
-
-Este prompt não solicita código diretamente.
-
-Ele serve para:
-
-✅ **Planejar projetos reais de software**  
-✅ **Estruturar cursos de formação de desenvolvedores**  
-✅ **Guiar estudos para TCC ou carreiras em TI**  
-✅ **Mapear competências que devem ser avaliadas ou adquiridas**
 
 ---
 
